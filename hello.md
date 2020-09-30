@@ -1,2 +1,2 @@
 # echo "Hello"
-echo "testing cron"
+echo "testing triggers"
